@@ -133,9 +133,7 @@ This ensures that refreshing on any route still serves the React app instead of 
 
 ## 👨‍💻 Developer
 
-- **Developer**: Adoni (replace with your full name/handle if you prefer)
-- **GitHub**: `https://github.com/<your-username>`
-- **Portfolio / Contact**: Add your portfolio or contact link here.
+- **Developer**: Adonias Goes
 
 Feel free to use this project as:
 
